@@ -1,10 +1,16 @@
 # Frequency Dictionary Viewer for Mandarin Chinese
 
-Using this Google Colab notebook, you can generate frequency dictionaries:
+Using this Google Colab notebook, you can generate frequency dictionaries for use with the webpage included with this repo or in Pleco (a mobile app with many useful tools Chinese learners):
 
 *link goes here*
 
-**You can use any frequency dictionaries you've generated with this webpage:**
+The notebook can also be found in this repo if you'd like to download and run it locally.
+
+***Nothing has been tested with traditional characters.** In theory they should work just fine, but using traditional to look up simplified or simplified to look up traditional will not work. I will address this in a future version.*
+
+## Webpage
+
+(not tested on mobile)
 
 https://attenius.github.io/frequency_dictionary_viewer/
 
@@ -16,6 +22,6 @@ https://attenius.github.io/frequency_dictionary_viewer/
 
 ![image](https://github.com/Attenius/frequency_dictionary_viewer/assets/45155332/b4e05f73-3786-4372-aa95-fe7e1479955d)
 
-**You can also use them with Pleco:**
+## Pleco
 
 
